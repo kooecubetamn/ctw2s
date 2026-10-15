@@ -1,0 +1,5 @@
+Thumbs.db
+.DS_Store
+*.log
+*.before-icons.html
+node_modules/

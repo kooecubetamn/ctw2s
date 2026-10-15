@@ -1,0 +1,31 @@
+{
+  "transform": {
+    "a": 0.406180701942301,
+    "b": 0.0038196322676526764,
+    "tx": 955.3946351507104,
+    "ty": 848.9286576243776
+  },
+  "source": "Two user GPS screenshots matched to extracted map; approximate pixel alignment",
+  "points": [
+    {
+      "world": [
+        -298.227,
+        -68.222
+      ],
+      "map": [
+        834,
+        875.5
+      ]
+    },
+    {
+      "world": [
+        -190.043701171875,
+        -23.706787109375
+      ],
+      "map": [
+        878.112,
+        857.832
+      ]
+    }
+  ]
+}
